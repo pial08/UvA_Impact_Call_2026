@@ -1,0 +1,17 @@
+C145: - S S S S S S
+C146: - S S S S S S
+C147: - P P 3 3-4
+C148: - P P P P P P P P P P
+C149: - S P S P
+C150: - P P P P P P P P P P P P P P P P P
+C151: - P P P P P
+C152: - S S S
+C153: - P P S
+C154: - P P P
+C155: - S S S S S S S
+C156: - S S S S
+C157: - P S S S S S S S S S
+C158: - P S S S S S S S
+C159: - P P P P P P P
+C160: - S S S S S P S S S S P S
+C161: - P S S S

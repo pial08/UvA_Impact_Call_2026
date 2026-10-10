@@ -1,0 +1,9 @@
+# Pilot analysis and analytic simulation
+numpy>=1.24
+matplotlib>=3.7
+tokenizers>=0.15
+
+# Optional: simulation --mode measure (runs real Hugging Face models)
+# torch>=2.1
+# transformers>=4.40
+# accelerate>=0.30

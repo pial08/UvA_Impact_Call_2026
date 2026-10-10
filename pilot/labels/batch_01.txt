@@ -1,0 +1,15 @@
+C001: - S S S S S S
+C002: - S S S S
+C003: - P P P P P P P P P P P
+C004: - S S S S S
+C005: - P P P 4
+C006: - P S S S S S S S
+C007: - P P P
+C008: - S S S S S P 1,5-7 1,5-8 1,5-9 1,7
+C009: - P 2 2 2 2 2 2 2 2 2 2 P
+C010: - S S S S S S S S S
+C011: - S S S S
+C012: - P S 2
+C013: - P S S
+C014: - S S S S S S S S
+C015: - S S S S S S S S S S

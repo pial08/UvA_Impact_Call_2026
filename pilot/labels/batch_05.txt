@@ -1,0 +1,17 @@
+C073: - S S S
+C074: - P P S S
+C075: - S S S P P
+C076: - P P P P P P P
+C077: - P P P S
+C078: - S P S S S P S S S S S P S S S
+C079: - S P P S S S 1-2
+C080: - S S S S S S S S S S
+C081: - S P S P S S S S S S 1-4 1-4,12 1-4,12-13 P S S P S S S
+C082: - P P P
+C083: - S S S S S S S S S
+C084: - P P P P
+C085: - S S S
+C086: - S P P S
+C087: - P P P P P P P P P
+C088: - P P P P
+C089: - P S S S S

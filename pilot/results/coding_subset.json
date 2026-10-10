@@ -1,0 +1,28 @@
+{
+  "coding": {
+    "n_conversations": 60,
+    "median_turns": 8,
+    "share_of_all_history_tokens": 0.46661748295389954,
+    "share_exceeding_4096_tokens": 0.4166666666666667,
+    "share_exceeding_8192_tokens": 0.05,
+    "share_history_unneeded": 0.3374613557242253,
+    "share_history_unneeded_ci95": [
+      0.18856014449776246,
+      0.450285923316849
+    ],
+    "share_history_unneeded_after_turn_10": 0.49595959595959593
+  },
+  "other": {
+    "n_conversations": 144,
+    "median_turns": 5,
+    "share_of_all_history_tokens": 0.5333825170461004,
+    "share_exceeding_4096_tokens": 0.19444444444444445,
+    "share_exceeding_8192_tokens": 0.006944444444444444,
+    "share_history_unneeded": 0.545928886213418,
+    "share_history_unneeded_ci95": [
+      0.4373300168489698,
+      0.6429586741087293
+    ],
+    "share_history_unneeded_after_turn_10": 0.7852033556436042
+  }
+}

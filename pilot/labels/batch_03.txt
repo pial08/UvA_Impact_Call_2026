@@ -1,0 +1,19 @@
+C035: - P S P P S
+C036: - S S S P S S P S S
+C037: - P P P P P
+C038: - S S S S
+C039: - S S S S S S
+C040: - P P P P P P P P 1,8-9
+C041: - P P P
+C042: - P P P P
+C043: - P P P
+C044: - S S S S S S S
+C045: - P P P S
+C046: - P P 3
+C047: - S S S S S S P
+C048: - P S S S
+C049: - P S S
+C050: - S S S S
+C051: - P S S P P P P P P P S
+C052: - P S S S S P S S S S 11 P S P S P S
+C053: - S S P S S S S S P S

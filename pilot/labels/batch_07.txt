@@ -1,0 +1,18 @@
+C110: - S S S S S S S
+C111: - P S S
+C112: - P P P P
+C113: - P P P P
+C114: - P P P P P P P P P P
+C115: - P P P P P P
+C116: - S S S S S S S
+C117: - S S P S S P P S S S
+C118: - S S P
+C119: - P S S S
+C120: - S S S S
+C121: - S S S S
+C122: - S S S S S
+C123: - P P P
+C124: - S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S
+C125: - 1 1 S
+C126: - S S S
+C127: - P P P

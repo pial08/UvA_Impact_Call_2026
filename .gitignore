@@ -1,0 +1,11 @@
+# Raw WildChat conversations and derived views (re-create with pilot/scripts/fetch_wildchat.py)
+pilot/data/eligible.jsonl
+pilot/data/conversations_indexed.json
+pilot/views/
+# Tokenizer (re-create with pilot/scripts/get_tokenizer.py)
+pilot/data/claude_legacy_tokenizer.json
+
+__pycache__/
+*.pyc
+.DS_Store
+.venv/

@@ -1,0 +1,164 @@
+{
+  "overall": {
+    "share_history_unneeded": 0.4486542918589355,
+    "share_input_unneeded": 0.4213160612279578,
+    "pivot_rate": 0.33307086614173226,
+    "turns_with_some_unneeded": 0.562992125984252,
+    "hist_tokens": 2155185,
+    "needed_tokens": 1188252,
+    "user_tokens": 139845,
+    "n_turns_ge2": 1270,
+    "n_convs": 204,
+    "share_history_unneeded_ci95": [
+      0.3658337599566169,
+      0.5253836043451379
+    ],
+    "share_input_unneeded_ci95": [
+      0.34216819851262575,
+      0.4936388217923758
+    ],
+    "pivot_rate_ci95": [
+      0.2748212867355044,
+      0.39591516103692065
+    ]
+  },
+  "by_session_length": {
+    "4-5": {
+      "share_history_unneeded": 0.30304698407621766,
+      "share_input_unneeded": 0.2685666163380773,
+      "pivot_rate": 0.3761755485893417,
+      "turns_with_some_unneeded": 0.5517241379310345,
+      "hist_tokens": 325174,
+      "needed_tokens": 226631,
+      "user_tokens": 41748,
+      "n_turns_ge2": 319,
+      "n_convs": 92,
+      "share_history_unneeded_ci95": [
+        0.20612373947482276,
+        0.41077265777402855
+      ]
+    },
+    "6-9": {
+      "share_history_unneeded": 0.3445461104987539,
+      "share_input_unneeded": 0.3235560654810898,
+      "pivot_rate": 0.2766439909297052,
+      "turns_with_some_unneeded": 0.47845804988662133,
+      "hist_tokens": 677709,
+      "needed_tokens": 444207,
+      "user_tokens": 43965,
+      "n_turns_ge2": 441,
+      "n_convs": 71,
+      "share_history_unneeded_ci95": [
+        0.23879877786207887,
+        0.4633236472158957
+      ]
+    },
+    "10+": {
+      "share_history_unneeded": 0.5509736162915625,
+      "share_input_unneeded": 0.5262517468837914,
+      "pivot_rate": 0.35490196078431374,
+      "turns_with_some_unneeded": 0.6431372549019608,
+      "hist_tokens": 1152302,
+      "needed_tokens": 517414,
+      "user_tokens": 54132,
+      "n_turns_ge2": 510,
+      "n_convs": 41,
+      "share_history_unneeded_ci95": [
+        0.42564000126619445,
+        0.6774246988817111
+      ]
+    }
+  },
+  "by_turn_position": {
+    "2-3": {
+      "share_history_unneeded": 0.32796568530758774,
+      "share_input_unneeded": 0.28802386156763193,
+      "pivot_rate": 0.38480392156862747,
+      "turns_with_some_unneeded": 0.47549019607843135,
+      "hist_tokens": 278831,
+      "needed_tokens": 187384,
+      "user_tokens": 38667,
+      "n_turns_ge2": 408,
+      "n_convs": 204
+    },
+    "4-6": {
+      "share_history_unneeded": 0.3610175529946971,
+      "share_input_unneeded": 0.3464669749973371,
+      "pivot_rate": 0.2951167728237792,
+      "turns_with_some_unneeded": 0.5498938428874734,
+      "hist_tokens": 729790,
+      "needed_tokens": 466323,
+      "user_tokens": 30649,
+      "n_turns_ge2": 471,
+      "n_convs": 204
+    },
+    "7-10": {
+      "share_history_unneeded": 0.4705284932863269,
+      "share_input_unneeded": 0.456482937956734,
+      "pivot_rate": 0.308,
+      "turns_with_some_unneeded": 0.644,
+      "hist_tokens": 668561,
+      "needed_tokens": 353984,
+      "user_tokens": 20571,
+      "n_turns_ge2": 250,
+      "n_convs": 86
+    },
+    "11+": {
+      "share_history_unneeded": 0.6222596929307975,
+      "share_input_unneeded": 0.6118543934569212,
+      "pivot_rate": 0.3546099290780142,
+      "turns_with_some_unneeded": 0.7163120567375887,
+      "hist_tokens": 478003,
+      "needed_tokens": 180561,
+      "user_tokens": 8129,
+      "n_turns_ge2": 141,
+      "n_convs": 31
+    }
+  },
+  "robustness": {
+    "every_pivot_keeps_previous_exchange": {
+      "share_history_unneeded": 0.3886520182722133,
+      "share_input_unneeded": 0.36496995681973654,
+      "pivot_rate": 0.33307086614173226,
+      "turns_with_some_unneeded": 0.4921259842519685,
+      "hist_tokens": 2155185,
+      "needed_tokens": 1317568,
+      "user_tokens": 139845,
+      "n_turns_ge2": 1270,
+      "n_convs": 204,
+      "share_history_unneeded_ci95": [
+        0.30514740203644214,
+        0.4578727694282917
+      ]
+    },
+    "excluding_identical_resubmissions": {
+      "share_history_unneeded": 0.4372884777812672,
+      "share_input_unneeded": 0.4097695726183268,
+      "pivot_rate": 0.3250620347394541,
+      "turns_with_some_unneeded": 0.5566583953680728,
+      "hist_tokens": 2050612,
+      "needed_tokens": 1153903,
+      "user_tokens": 137713,
+      "n_turns_ge2": 1209,
+      "n_convs": 204
+    }
+  },
+  "per_conversation": {
+    "median": 0.4533143264433357,
+    "share_of_convs_with_zero_unneeded": 0.39215686274509803,
+    "share_of_convs_with_ge50pct_unneeded": 0.46568627450980393
+  },
+  "code_counts": {
+    "P": 423,
+    "S": 786,
+    "A": 3,
+    "explicit": 58
+  },
+  "models": {
+    "gpt-4-0314": 22,
+    "gpt-3.5-turbo-0301": 103,
+    "gpt-3.5-turbo-0613": 73,
+    "gpt-4-1106-preview": 6
+  },
+  "tokenizer": "Claude legacy BPE tokenizer (bundled with anthropic-sdk-python 0.34.2); ratios are insensitive to the tokenizer choice"
+}

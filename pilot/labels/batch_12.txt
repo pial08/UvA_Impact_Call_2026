@@ -1,0 +1,11 @@
+C194: - S S S S S S S
+C195: - S S S
+C196: - S S S S S S S
+C197: - P P S S P
+C198: - P P P P
+C199: - P S S S
+C200: - S S S S S S S S
+C201: - S S S S S S
+C202: - S P S S P
+C203: - S S S S S
+C204: - S S S S S S S

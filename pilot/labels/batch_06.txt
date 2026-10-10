@@ -1,0 +1,20 @@
+C090: - S S S S
+C091: - P P P P P P P P P 1 P P P P
+C092: - S S S S S S S S S S S
+C093: - P P P P
+C094: - P P S S S S S S
+C095: - S S S S
+C096: - S S S S S S S S S S
+C097: - P P P S
+C098: - P S S P
+C099: - P P S S S P P P
+C100: - S S S P S
+C101: - S S S
+C102: - S S S S P P
+C103: - P P P P P P P S P
+C104: - S S S S
+C105: - S P S S P P
+C106: - S P S P S P S
+C107: - S S S
+C108: - S S P
+C109: - P P P P P

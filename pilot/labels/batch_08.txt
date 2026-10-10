@@ -1,0 +1,17 @@
+C128: - S S S S P S S S S S S S S S
+C129: - S S S
+C130: - S S S
+C131: - S S S S
+C132: - P S S P S P S P S P S P P
+C133: - P S S
+C134: - P P P
+C135: - S S S S S
+C136: - P S S P S S
+C137: - P P P P P
+C138: - P P P
+C139: - S S S S
+C140: - S S S
+C141: - S S S S
+C142: - S S S S
+C143: - S S S
+C144: - S S S S S S S S S

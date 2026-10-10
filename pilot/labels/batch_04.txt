@@ -1,0 +1,19 @@
+C054: - P S S S
+C055: - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+C056: - P P P
+C057: - S P P P P P P P P
+C058: - S P P S S S S
+C059: - S S S S S S S S S S S S
+C060: - P P 2 P P P
+C061: - S S S S S
+C062: - P A A A
+C063: - P P P P S
+C064: - P S S
+C065: - P P P
+C066: - S S S S S S S
+C067: - S S S
+C068: - P S S S S S S S
+C069: - P S P P S P S S P P
+C070: - S S S S S
+C071: - S S S S S S
+C072: - S S S

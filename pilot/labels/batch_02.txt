@@ -1,0 +1,19 @@
+C016: - S S S S S S S S S S S
+C017: - P P S
+C018: - S S S
+C019: - 1 1 1 1 1 1 P S S S P
+C020: - S S S S S
+C021: - P S S
+C022: - P S S P
+C023: - P P S S P S S P S S P S S P P
+C024: - P S P P P P
+C025: - S P 3
+C026: - S S S S S
+C027: - S S S S S
+C028: - P P P P P
+C029: - P S P P
+C030: - P S P 1-4 S S S P P S P P
+C031: - S S S S S S S P 8
+C032: - P P S
+C033: - P P P
+C034: - P S S P P

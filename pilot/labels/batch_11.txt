@@ -1,0 +1,17 @@
+C177: - S S S S S S S S
+C178: - S S S P S S S P
+C179: - S S S S S S S S S S S S S S S
+C180: - S S S S S
+C181: - S P S
+C182: - S S S S
+C183: - P S S
+C184: - S S P P P
+C185: - S S S S
+C186: - S S S S P S
+C187: - S S P S S
+C188: - S S S
+C189: - S S S S
+C190: - S S S S S S S
+C191: - S S S S
+C192: - S S S
+C193: - S S S

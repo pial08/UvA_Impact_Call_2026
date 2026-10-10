@@ -1,0 +1,15 @@
+C162: - P S S
+C163: - P P S S P P P S
+C164: - P S S S S S S S
+C165: - S S S P S S
+C166: - S S P S P S
+C167: - P S P
+C168: - S S S S S S S S S
+C169: - S S S S S S S S
+C170: - P P S S S S
+C171: - P P S P P P S
+C172: - S S S S
+C173: - P P P P P P P P P P P P P P P P P P P P P P P P
+C174: - S S S
+C175: - S S S S S
+C176: - S S S S S S S
